@@ -73,7 +73,7 @@ export default function HeroSection() {
         </h1>
         
         <p className="text-xl md:text-2xl mb-8 text-gray-100 max-w-2xl mx-auto">
-          Experiências únicas de turismo de aventura no coração da floresta amazônica. 
+          Experiências únicas de turismo e aventura no coração da floresta amazônica. 
           Passeios inesquecíveis que conectam você com a natureza.
         </p>
 

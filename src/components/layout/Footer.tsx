@@ -20,7 +20,7 @@ export default function Footer() {
               </h3>
             </div>
             <p className="text-gray-300 mb-6 max-w-md">
-              Experiências únicas de turismo de aventura no coração da floresta amazônica. 
+              Experiências únicas de turismo e aventura no coração da floresta amazônica. 
               Conectamos você com a natureza de forma segura e responsável.
             </p>
             <div className="flex space-x-4">
