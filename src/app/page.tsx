@@ -1,6 +1,6 @@
 import Header from '@/components/layout/Header'
 import HeroSection from '@/components/sections/HeroSection'
-import FeaturedActivities from '@/components/sections/FeaturedActivities'
+import TourCatalog from '@/components/sections/TourCatalog'
 import WhyChooseUs from '@/components/sections/WhyChooseUs'
 import SocialProof from '@/components/sections/SocialProof'
 import GalleryStrip from '@/components/sections/GalleryStrip'
@@ -14,8 +14,8 @@ export default function Home() {
       <Header />
       <main className="min-h-screen">
         <HeroSection />
+        <TourCatalog />
         <GalleryStrip />
-        <FeaturedActivities />
         <WhyChooseUs />
         <SocialProof />
         <Faq />
