@@ -1,7 +1,7 @@
 'use client'
 
 export default function FinalCta() {
-  const whatsapp = 'https://wa.me/5592986007304?text=Ol%C3%A1%2C%20quero%20reservar%20um%20passeio%20(Turismo%20na%20Amaz%C3%B4nia)'
+  const whatsapp = 'https://wa.me/5592991502888?text=Ol%C3%A1%2C%20quero%20reservar%20um%20passeio%20(Turismo%20na%20Amaz%C3%B4nia)'
   const instagram = 'https://www.instagram.com/turismonaamazonia/'
 
   return (
@@ -21,7 +21,7 @@ export default function FinalCta() {
             rel="noopener noreferrer"
             className="px-6 py-3 rounded-md bg-green-600 text-white hover:bg-green-700"
           >
-            Chamar no WhatsApp (92) 98600-7304
+            Chamar no WhatsApp (92) 99150-2888
           </a>
           <a
             href={instagram}
